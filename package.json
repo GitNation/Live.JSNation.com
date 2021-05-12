@@ -104,7 +104,7 @@
     "luxon": "^1.24.1",
     "netlify-cli": "^2.48.0",
     "svg4everybody": "^2.1.9",
-    "swiper": "^4.4.6"
+    "swiper": "^6.5.1"
   },
   "relativeDependencies": {
     "@focus-reactive/react-app-layer": "../react-app-layer/",
