@@ -60,4 +60,8 @@ You can also use [npm scripts](https://docs.npmjs.com/misc/scripts):
 * `npm run lint` - linting javascript with **eslint**.
 * `npm run lint-fix` - fix as many issues as possible relatives to **eslint** settings.
 
+## About GitNation
 
+[GitNation](https://gitnation.org/#about) is a foundation contributing to the development of the technological landscape by organizing events which focus on the open source software. We organize meaningful and entertaining JavaScript conferences and meetups, connecting talented engineers, researchers, and core teams of important libraries and technologies.
+
+Besides offering [single conference tickets](https://gitnation.org/#events), the organization also sells a GitNation Multipass providing discounted access to multiple [remote JavaScript conferences and workshops](https://portal.gitnation.org/multipass).
